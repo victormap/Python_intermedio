@@ -1,0 +1,8 @@
+﻿1º, primero o primer, 1ª, primera
+ 2º, segundo, 2ª segunda
+ 3º, tercero o tercer, 3ª tercera
+ 4º, cuarto, 4ª cuarta
+ 5º, quinto, 5ª ,quinta
+ 6º, sexto, 6ª, sexta
+ 7º, séptimo, 7ª, séptima
+ 8º, octavo, 8ª,octava
